@@ -14,7 +14,7 @@ HELP_BUTTON = [
       Button.inline("• ᴇxᴛʀᴀ •", data="extra")
     ],
     [
-      Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/TEAM_CDX"),
+      Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/CDX_WORLD"),
       Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/BWANDARLOK")
     ]
   ]
@@ -60,7 +60,7 @@ extra_msg = f"""
   2) {hl}leave : Type in the Group bot will auto leave that group
 
 
-**© @jarvis2O**
+**©@fearless_xd_1**
 """
 
                  
