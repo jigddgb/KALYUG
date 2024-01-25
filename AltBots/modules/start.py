@@ -8,11 +8,11 @@ START_BUTTON = [
         Button.inline("• ᴄᴏᴍᴍᴀɴᴅs •", data="help_back")
     ],
     [
-        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/TEAM_CDX"),
+        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/CDX_WORLD"),
         Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/BWANDARLOK")
     ],
     [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/doraemon890/Jarvis-X-spam")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/doraemon890/KALYUG")
     ]
 ]
 
