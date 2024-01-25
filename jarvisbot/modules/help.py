@@ -92,7 +92,7 @@ raid_msg = f"""
   2) {hl}craid <count> <reply to user>
 
 
-**© @fearless_xd_1**
+**© @jarvis2O**
 """
 
 spam_msg = f"""
@@ -109,7 +109,7 @@ spam_msg = f"""
   1) {hl}hang <counter>
 
 
-** © @fearless_xd_1**
+** © @jarvis2O**
 """                     
            
            
