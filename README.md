@@ -21,9 +21,13 @@
 
 
 <details>
-<summary><b>𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘</b></summary>
+<summary><b>ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ</b></summary>
 <br>
 <h1> <img src="https://te.legra.ph/file/1f5f400d5a16ae3a89343.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-[<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://t.me/fearless_xd_1) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/doraemon890) 
+[<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://t.me/Doraemon890) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/doraemon890) 
+</details>
+<details>
+<summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
+<a href="https://t.me/BWANDARLOK"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 </details>
