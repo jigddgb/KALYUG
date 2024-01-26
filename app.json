@@ -1,6 +1,6 @@
 {
     "name": "KALYUG",
-    "logo": "https://telegra.ph/file/2ce853cbdd303aeac7b41.jpg",
+    "logo": "https://graph.org/file/3cde713c4e9c0d5b6d181.jpg)",
     "keywords": [
         "telegram",
         "telethon",
@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/doraemon890/KALYUG",
+    "owner": "https://t.me/NotYourMuskam",
     "env": {
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
